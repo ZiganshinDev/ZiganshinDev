@@ -7,7 +7,7 @@
 
 - 👨‍💻 Все мои проекты есть здесь [https://github.com/ZiganshinDev/My-Pet-Projects](https://github.com/ZiganshinDev/My-Pet-Projects)
 
-- 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/**
+- 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru**
 
 - 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
 
