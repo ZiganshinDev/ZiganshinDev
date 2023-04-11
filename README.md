@@ -10,6 +10,18 @@
 - 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru**
 
 - 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
+- -Год опыта разработки на Go (Golang)
+-GIT (на уровне git clone/init/add/commit/push/merge/pull/branch; GitHub: https://github.com/ZiganshinDev)
+-Опыт создания Чат Ботов с помощью сторонних библиотек (проект: https://github.com/ZiganshinDev/My-Pet-Projects/tree/main/weatherTelegramBotwithYandexAPI)
+-Опыт взаимодействие с REST API (взаимодействие с API Яндекс.Погода, Openweather API, JSON; проект: https://github.com/ZiganshinDev/My-Pet-Projects/tree/main/weatherTelegramBotwithYandexAPI)
+-Знание HTTP/HTTPS
+-Postman
+-JIRA
+-Английский (на уровне чтения документации)
+-PostgreSQL (в процессе осваивания: прохожу курс и создаю проект)
+
+-Закончил курс 'Программирование на Golang': https://stepik.org/cert/1972479
+-Прохожу курс 'Интерактивный тренажер по SQL'
 
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
