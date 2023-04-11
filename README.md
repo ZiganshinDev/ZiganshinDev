@@ -11,10 +11,14 @@
 
 - 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Связаться со мной:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adeleziganshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeleziganshin" height="30" width="40" /></a>
+  
+<h3 align="left">Моё обучение:</h3>
+<p align="left">
 <a href="https://www.leetcode.com/ziganshindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziganshindev" height="30" width="40" /></a>
+[![codewars](https://www.codewars.com/users/ZiganshinDev/badges/large)](https://www.codewars.com/users/ZiganshinDev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
