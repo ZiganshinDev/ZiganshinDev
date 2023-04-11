@@ -10,6 +10,7 @@
 - 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru**
 
 - 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
+
 -Год опыта разработки на Go (Golang)
 
 -GIT
