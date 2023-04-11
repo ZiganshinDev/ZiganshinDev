@@ -17,7 +17,9 @@
   
 <h3 align="left">Моё обучение:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/ziganshindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziganshindev" height="30" width="40" /> </a> </p> 
+<a href="https://www.leetcode.com/ziganshindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziganshindev" height="30" width="40" /> </a> 
+</p> 
+
 [![codewars](https://www.codewars.com/users/ZiganshinDev/badges/large)](https://www.codewars.com/users/ZiganshinDev), [![Stepik Badge](https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white)](https://stepik.org/users/564365868)
 
 <h3 align="left">Languages and Tools:</h3>
