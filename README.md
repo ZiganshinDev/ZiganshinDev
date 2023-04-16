@@ -11,28 +11,6 @@
 
 - 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
 
--Год опыта разработки на Go (Golang)
-
--GIT
-
--Опыт создания Чат Ботов с помощью сторонних библиотек (проект: https://github.com/ZiganshinDev/My-Pet-Projects/tree/main/weatherTelegramBotwithYandexAPI)
-
--Опыт взаимодействие с REST API (взаимодействие с API Яндекс.Погода, Openweather API, JSON; проект: https://github.com/ZiganshinDev/My-Pet-Projects/tree/main/weatherTelegramBotwithYandexAPI)
-
--Знание HTTP/HTTPS
-
--Postman
-
--JIRA
-
--Английский (на уровне чтения документации)
-
--PostgreSQL (в процессе осваивания: прохожу курс и создаю проект)
-
--Закончил курс 'Программирование на Golang': https://stepik.org/cert/1972479
-
--Прохожу курс 'Интерактивный тренажер по SQL'
-
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adeleziganshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeleziganshin" height="30" width="40" /></a>
