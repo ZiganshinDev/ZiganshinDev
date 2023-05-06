@@ -1,11 +1,11 @@
 <h1 align="center">Привет 👋, Я Зиганшин Адель</h1>
 <h3 align="center">Я Golang (Go) backend developer</h3>
 
-- 🔭 Сейчас я работаю над своим портфолио в виде пет-проекта [ВК_бот_для_расписания_занятий_в_университете](https://github.com/ZiganshinDev/My-Pet-Projects/tree/main/scheduleVKBot)
+- 🔭 Сейчас я работаю над своим портфолио в виде пет-проекта [ВК_бот_для_расписания_занятий_в_университете](https://github.com/ZiganshinDev/scheduleVKBot)
 
 - 🌱 На данный момент я изучаю **Docker**
 
-- 👨‍💻 Все мои проекты есть здесь [https://github.com/ZiganshinDev/My-Pet-Projects](https://github.com/ZiganshinDev/My-Pet-Projects)
+- 👨‍💻 Все мои проекты есть здесь [Проекты](https://github.com/ZiganshinDev?tab=repositories)
 
 - 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru**
 
