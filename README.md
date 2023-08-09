@@ -6,7 +6,7 @@
 - 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
 <h3 align="left">Связаться со мной:</h3>
-**[Linkedin](https://www.linkedin.com/in/adeleziganshin/) или adzigan@ya.ru (mail) или [Telegram](https://t.me/adeleziganshin)**
+** [Linkedin](https://www.linkedin.com/in/adeleziganshin/) или adzigan@ya.ru (mail) или [Telegram](https://t.me/adeleziganshin) **
   
 <h3 align="left">Моё обучение:</h3>
 
