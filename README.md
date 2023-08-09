@@ -3,10 +3,10 @@
 
 - 👨‍💻 Мои проекты: [Проекты](https://github.com/ZiganshinDev?tab=repositories)
 
-- 📄 Информация о моем опыте: (ссылка на резюме) [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
+- 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
 <h3 align="left">Связаться со мной:</h3>
-**https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru (mail) или adeleziganshin (telegram)**
+**[Linkedin](https://www.linkedin.com/in/adeleziganshin/) или adzigan@ya.ru (mail) или [Telegram](https://t.me/adeleziganshin)**
   
 <h3 align="left">Моё обучение:</h3>
 
