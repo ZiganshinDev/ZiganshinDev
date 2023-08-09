@@ -6,9 +6,9 @@
 - 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
 <h3 align="left">Связаться со мной:</h3>
-https://www.linkedin.com/in/adeleziganshin/ (linkedin)
-adzigan@ya.ru (mail)
-https://t.me/adeleziganshin (telegram)
+<p></p>https://www.linkedin.com/in/adeleziganshin/ (linkedin)
+<p></p>adzigan@ya.ru (mail)
+<p></p>https://t.me/adeleziganshin (telegram)
   
 <h3 align="left">Моё обучение:</h3>
 
