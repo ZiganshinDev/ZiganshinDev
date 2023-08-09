@@ -1,12 +1,12 @@
 <h1 align="center">Привет 👋, Я Зиганшин Адель</h1>
 <h3 align="center">Я Golang (Go) backend developer</h3>
 
-- 👨‍💻 Все мои проекты есть здесь [Проекты](https://github.com/ZiganshinDev?tab=repositories)
+- 👨‍💻 Мои проекты: [Проекты](https://github.com/ZiganshinDev?tab=repositories)
 
 - 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
 <h3 align="left">Связаться со мной:</h3>
-**https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru (почта) или adeleziganshin (telegram)**
+**https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru (mail) или adeleziganshin (telegram)**
   
 <h3 align="left">Моё обучение:</h3>
 
