@@ -3,13 +3,10 @@
 
 - 👨‍💻 Все мои проекты есть здесь [Проекты](https://github.com/ZiganshinDev?tab=repositories)
 
-- 📫 Как со мной связаться **https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru**
-
-- 📄 Информация о моем опыте [https://www.linkedin.com/in/adeleziganshin/](https://www.linkedin.com/in/adeleziganshin/)
+- 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
 <h3 align="left">Связаться со мной:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adeleziganshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeleziganshin" height="30" width="40" /></a>
+**https://www.linkedin.com/in/adeleziganshin/ или adzigan@ya.ru (почта) или adeleziganshin (telegram)**
   
 <h3 align="left">Моё обучение:</h3>
 
