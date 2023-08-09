@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, Я Зиганшин Адель</h1>
 <h3 align="center">Я Golang (Go) backend developer</h3>
 
-- 👨‍💻 Мои проекты: [Проекты](https://github.com/ZiganshinDev?tab=repositories)
+- 👨‍💻 Мои проекты: [Репозитории](https://github.com/ZiganshinDev?tab=repositories)
 
 - 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
 
