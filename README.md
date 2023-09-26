@@ -24,14 +24,12 @@
 
 <h3 align="left">Стэк:</h3>
 <p></p>  - Golang
-<p></p>  - PostgreSQL, SQLite
-<p></p>  - MongoDB
+<p></p>  - PostgreSQL, SQLite, MongoDB
 <p></p>  - Docker
 <p></p>  - Git
-<p></p>  - gRPC
+<p></p>  - gRPC, REST API
 <p></p>  - GitHubActions CI
 <p></p>  - Postman
-<p></p>  - REST API
 <p></p>  - JWT</p>
 
 
