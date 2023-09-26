@@ -23,17 +23,16 @@
 </p> 
 
 <h3 align="left">Стэк:</h3>
-<p 
-  - Golang
-  - PostgreSQL, SQLite
-  - MongoDB
-  - Docker
-  - Git
-  - gRPC
-  - GitHubActions CI
-  - Postman
-  - REST API
-  - JWT</p>
+<p></p>  - Golang
+<p></p>  - PostgreSQL, SQLite
+<p></p>  - MongoDB
+<p></p>  - Docker
+<p></p>  - Git
+<p></p>  - gRPC
+<p></p>  - GitHubActions CI
+<p></p>  - Postman
+<p></p>  - REST API
+<p></p>  - JWT</p>
 
 
 
