@@ -22,18 +22,6 @@
 <a href="https://www.leetcode.com/ziganshindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziganshindev" height="30" width="40" /> </a> 
 </p> 
 
-<h3 align="left">Стэк:</h3>
-<p></p>  - Golang
-<p></p>  - PostgreSQL, SQLite, MongoDB
-<p></p>  - Docker
-<p></p>  - Git
-<p></p>  - gRPC, REST API
-<p></p>  - GitHubActions CI
-<p></p>  - Postman
-<p></p>  - JWT</p>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziganshindev&show_icons=true&locale=en&layout=compact" alt="ziganshindev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziganshindev&show_icons=true&locale=en" alt="ziganshindev" /></p>
