@@ -10,6 +10,8 @@
 <p></p>adzigan@ya.ru (mail)
 <p></p>https://t.me/adeleziganshin (telegram)
 
+<p></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziganshindev&show_icons=true&locale=en&layout=compact" alt="ziganshindev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziganshindev&show_icons=true&locale=en" alt="ziganshindev" /></p>
