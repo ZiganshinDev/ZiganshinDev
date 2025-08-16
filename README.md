@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, Я Зиганшин Адель</h1>
-<h3 align="center">Я Golang (Go) backend developer</h3>
+<h1 align="center">Привет 👋</h1>
+<h3 align="center">Меня зовут Зиганшин Адель. Я Golang (Go) backend developer</h3>
 
 - 👨‍💻 Мои проекты: [Репозитории](https://github.com/ZiganshinDev?tab=repositories)
 
