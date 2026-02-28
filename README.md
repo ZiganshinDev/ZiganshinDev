@@ -10,7 +10,7 @@
 <h3 align="left">Связаться со мной:</h3>
 <p></p>https://www.linkedin.com/in/adeleziganshin/ (linkedin)
 <p></p>adzigan@ya.ru (mail)
-<p></p>https://t.me/adeleziganshin (telegram)
+<p></p>https://t.me/adeleziganshin (@adeleziganshin telegram)
 
 <p></p>
 
