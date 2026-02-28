@@ -3,7 +3,9 @@
 
 - 👨‍💻 Мои проекты: [Репозитории](https://github.com/ZiganshinDev?tab=repositories)
 
-- 📄 Информация о моем опыте [hh.ru](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
+- 📄 Информация о моем опыте:
+1) [hh ру](https://kazan.hh.ru/resume/5a9c503bff0bdd625a0039ed1f58765179436e)
+2) [Habr Карьера](https://career.habr.com/adeleziganshin)
 
 <h3 align="left">Связаться со мной:</h3>
 <p></p>https://www.linkedin.com/in/adeleziganshin/ (linkedin)
